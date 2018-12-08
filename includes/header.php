@@ -12,6 +12,7 @@
 
     <!--  LInk Custom CSS stylesheet -->
     <link rel="stylesheet" href="temp/css/style.css" />
+    <link rel="stylesheet" href="temp/css/formstyle.css" />
     <link rel="shortcut icon" type="image/jpg" href="../temp/img/sdeli_favicon.jpg"/>
   </head>
   <body>
